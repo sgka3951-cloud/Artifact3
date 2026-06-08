@@ -1,0 +1,15 @@
+{
+  "name": "artifact3",
+  "version": "1.0.0",
+  "description": "Node.js tutorial server using Express with Hello world and Good evening endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
