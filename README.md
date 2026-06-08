@@ -6,7 +6,7 @@ A minimal Node.js tutorial server built with [ExpressJS](https://expressjs.com/)
 
 - [Node.js](https://nodejs.org/) >= 18
 
-## Getting Started
+## Usage
 
 Install the dependencies and start the server from the repository root:
 
