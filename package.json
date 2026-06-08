@@ -1,0 +1,16 @@
+{
+  "name": "artifact3",
+  "version": "1.0.0",
+  "description": "A minimal Node.js and Express.js tutorial serving two plain-text GET endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">= 18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "MIT"
+}
